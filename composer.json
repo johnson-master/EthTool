@@ -1,12 +1,12 @@
 {
-  "name": "hubwiz/ethtool",
+  "name": "zhen/ethtool",
   "description": "ethereum dapp development tools",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "hubwiz",
-      "email": "support@hubwiz.com"
+      "name": "zhen",
+      "email": "525829345@qq.com"
     }
   ],
   "minimum-stability": "dev",
