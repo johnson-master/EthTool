@@ -1,12 +1,11 @@
 {
-  "name": "zhen/ethtool",
+  "name": "johnson-master/EthTool",
   "description": "ethereum dapp development tools",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "zhen",
-      "email": "525829345@qq.com"
+      "name": "johnson-master"
     }
   ],
   "minimum-stability": "dev",
