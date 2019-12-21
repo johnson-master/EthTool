@@ -11,8 +11,8 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "kornrunner/keccak": "~1.0",
-    "simplito/elliptic-php": "~1.0.6"
+    "kornrunner/php-keccak": ">=1.0.3",
+    "simplito/elliptic-php": ">=1.0.6"
   },
   "autoload": {
     "psr-4": {
